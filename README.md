@@ -1,2 +1,2 @@
 # stock-notifier
-This application is an iPhone app that notifies a user when stock meets the parameters the user has set.
+This application is a web app that notifies a user when stock meets the parameters the user has set.
